@@ -12,9 +12,21 @@ namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
+
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void register(object sender, EventArgs e)
+        {
+
+
+        }
+
+        private void login_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
